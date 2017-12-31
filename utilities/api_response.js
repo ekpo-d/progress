@@ -1,5 +1,5 @@
 /**
- * Properly formats and sends JSEND responses
+ * Properly formats and sends JSON responses
  */
 module.exports = {
   sendSuccess: (data, res) => {
